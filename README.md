@@ -106,4 +106,4 @@ Proyek ini dilisensikan di bawah MIT License - lihat file [LICENSE](LICENSE) unt
 
 ## Kontak / Contact
 
-Untuk pertanyaan atau saran, hubungi kami di info@govhack.id
+habizinnia@gmail.com
